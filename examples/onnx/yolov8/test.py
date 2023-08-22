@@ -4,8 +4,8 @@ import cv2
 from rknn.api import RKNN
 import time
 
-ONNX_MODEL = 'examples/onnx/yolov8/yolov8n.onnx'
-RKNN_MODEL = 'examples/onnx/yolov8/yolov8n.rknn'
+ONNX_MODEL = 'examples/onnx/yolov8/yolov8s.onnx'
+RKNN_MODEL = 'examples/onnx/yolov8/yolov8s.rknn'
 IMG_PATH = 'examples/onnx/yolov8/bus.jpg'
 DATASET = 'examples/onnx/yolov8/dataset.txt'
 
