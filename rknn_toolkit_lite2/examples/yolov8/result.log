@@ -1,0 +1,60 @@
+--> Load RKNN model
+--> Load RKNN model
+done
+--> Load RKNN model
+done
+done
+Thread:t0,Read time: 7.880847454071045 ms,paltform:npu0
+Thread:t2,Read time: 7.561089992523193 ms,paltform:npu2
+Thread:t1,Read time: 7.528970241546631 ms,paltform:npu1
+Thread:t0,Inference time: 32.15233564376831 ms,paltform:npu0
+Thread:t1,Inference time: 32.92941331863403 ms,paltform:npu1
+Thread:t2,Inference time: 33.4643816947937 ms,paltform:npu2
+Thread:t0,Post time: 18.16664218902588 ms,paltform:npu0
+Thread:t0,Total time: 58.20056915283203 ms,paltform:npu0
+Thread:t2,Post time: 17.536640167236328 ms,paltform:npu2
+Thread:t2,Total time: 58.56276273727417 ms,paltform:npu2
+Thread:t1,Post time: 17.884855270385742 ms,paltform:npu1
+Thread:t1,Total time: 58.343822956085205 ms,paltform:npu1
+I RKNN: [05:04:16.995] RKNN Runtime Information: librknnrt version: 1.4.0 (a10f100eb@2022-09-09T09:07:14)
+I RKNN: [05:04:16.995] RKNN Driver Information: version: 0.8.5
+I RKNN: [05:04:16.996] RKNN Model Information: version: 1, toolkit version: 1.5.0+1fa95b5c(compiler version: 1.5.0 (e6fe0c678@2023-05-25T08:18:57)), target: RKNPU v2, target platform: rk3588, framework name: ONNX, framework layout: NCHW
+W RKNN: [05:04:16.997] RKNN Model version: 1.5.0 not match with rknn runtime version: 1.4.0
+I RKNN: [05:04:17.049] RKNN Runtime Information: librknnrt version: 1.4.0 (a10f100eb@2022-09-09T09:07:14)
+I RKNN: [05:04:17.049] RKNN Driver Information: version: 0.8.5
+I RKNN: [05:04:17.050] RKNN Model Information: version: 1, toolkit version: 1.5.0+1fa95b5c(compiler version: 1.5.0 (e6fe0c678@2023-05-25T08:18:57)), target: RKNPU v2, target platform: rk3588, framework name: ONNX, framework layout: NCHW
+W RKNN: [05:04:17.050] RKNN Model version: 1.5.0 not match with rknn runtime version: 1.4.0
+I RKNN: [05:04:17.063] RKNN Runtime Information: librknnrt version: 1.4.0 (a10f100eb@2022-09-09T09:07:14)
+I RKNN: [05:04:17.063] RKNN Driver Information: version: 0.8.5
+I RKNN: [05:04:17.065] RKNN Model Information: version: 1, toolkit version: 1.5.0+1fa95b5c(compiler version: 1.5.0 (e6fe0c678@2023-05-25T08:18:57)), target: RKNPU v2, target platform: rk3588, framework name: ONNX, framework layout: NCHW
+W RKNN: [05:04:17.065] RKNN Model version: 1.5.0 not match with rknn runtime version: 1.4.0
+--> Load RKNN model
+--> Load RKNN model
+--> Load RKNN model
+done
+done
+done
+Thread:t0,Read time: 7.902271747589111 ms,paltform:npu0
+Thread:t1,Read time: 7.515504360198975 ms,paltform:npu1
+Thread:t2,Read time: 7.471458911895752 ms,paltform:npu2
+Thread:t0,Inference time: 47.04392194747925 ms,paltform:npu0
+Thread:t1,Inference time: 48.07716369628906 ms,paltform:npu1
+Thread:t2,Inference time: 48.586440086364746 ms,paltform:npu2
+Thread:t0,Post time: 17.514801025390625 ms,paltform:npu0
+Thread:t0,Total time: 72.46167182922363 ms,paltform:npu0
+Thread:t1,Post time: 17.18993902206421 ms,paltform:npu1
+Thread:t1,Total time: 72.78321266174316 ms,paltform:npu1
+Thread:t2,Post time: 17.02763795852661 ms,paltform:npu2
+Thread:t2,Total time: 73.08626890182495 ms,paltform:npu2
+I RKNN: [05:05:03.738] RKNN Runtime Information: librknnrt version: 1.4.0 (a10f100eb@2022-09-09T09:07:14)
+I RKNN: [05:05:03.738] RKNN Driver Information: version: 0.8.5
+I RKNN: [05:05:03.740] RKNN Model Information: version: 1, toolkit version: 1.5.0+1fa95b5c(compiler version: 1.5.0 (e6fe0c678@2023-05-25T08:18:57)), target: RKNPU v2, target platform: rk3588, framework name: ONNX, framework layout: NCHW
+W RKNN: [05:05:03.741] RKNN Model version: 1.5.0 not match with rknn runtime version: 1.4.0
+I RKNN: [05:05:03.812] RKNN Runtime Information: librknnrt version: 1.4.0 (a10f100eb@2022-09-09T09:07:14)
+I RKNN: [05:05:03.812] RKNN Driver Information: version: 0.8.5
+I RKNN: [05:05:03.813] RKNN Runtime Information: librknnrt version: 1.4.0 (a10f100eb@2022-09-09T09:07:14)
+I RKNN: [05:05:03.813] RKNN Driver Information: version: 0.8.5
+I RKNN: [05:05:03.814] RKNN Model Information: version: 1, toolkit version: 1.5.0+1fa95b5c(compiler version: 1.5.0 (e6fe0c678@2023-05-25T08:18:57)), target: RKNPU v2, target platform: rk3588, framework name: ONNX, framework layout: NCHW
+W RKNN: [05:05:03.814] RKNN Model version: 1.5.0 not match with rknn runtime version: 1.4.0
+I RKNN: [05:05:03.815] RKNN Model Information: version: 1, toolkit version: 1.5.0+1fa95b5c(compiler version: 1.5.0 (e6fe0c678@2023-05-25T08:18:57)), target: RKNPU v2, target platform: rk3588, framework name: ONNX, framework layout: NCHW
+W RKNN: [05:05:03.815] RKNN Model version: 1.5.0 not match with rknn runtime version: 1.4.0
